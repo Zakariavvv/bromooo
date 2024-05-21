@@ -1,0 +1,21 @@
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\bin\Debug\Bromoo Airliness.exe.config
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\bin\Debug\Bromoo Airliness.exe
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\bin\Debug\Bromoo Airliness.pdb
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo Airliness.csproj.AssemblyReference.cache
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.daftar_akun.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.Form1.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.master_bandara.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.menu.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.Properties.Resources.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo Airliness.csproj.GenerateResource.cache
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo Airliness.csproj.CoreCompileInputs.cache
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo Airliness.exe
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo Airliness.pdb
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.MasterJadwal.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.MasterMaskapai.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.csMainform.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.Form2.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.masterkp.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.ubahsp.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.belitiket.resources
+C:\Users\MohShobirin\source\repos\Bromoo Airliness\obj\Debug\Bromoo_Airliness.tiket_saya.resources
